@@ -8,6 +8,8 @@ Here are some of about me:
   🏆 I’m currently stuying at Chittagong University of Engineering & Technology(__CUET__)
   
   ⚡ A _quick learner, problem solver, competetitive programmer_
+
+  💠 _ML_ and _AI_ enthusiast in the field of research
   
   🌱 I’m currently learning _Machine Learning_
   
