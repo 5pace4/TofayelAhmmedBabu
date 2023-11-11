@@ -13,7 +13,7 @@ Here are some of about me:
   
   🌱 I’m currently learning _Machine Learning_
   
-  👯 I’m looking to collaborate on machine learning project
+  👯 I’m looking to collaborate on machine learning & AI project
   
   💬 Feel free to ask anything
   
