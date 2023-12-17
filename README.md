@@ -5,7 +5,7 @@
 Here are some of about me:
 -->
 
-  🏆 I’m currently stuying at Chittagong University of Engineering & Technology(__CUET__)
+  🏆 I’m currently studying at Chittagong University of Engineering & Technology(__CUET__)
   
   ⚡ A _quick learner, problem solver, competetitive programmer_
 
