@@ -89,13 +89,13 @@
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tofayelahmmedbabu&theme=ambient_gradient&hide_border=true) ![space4's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofayelahmmedbabu&show_icons=true&theme=ambient_gradient&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tofayelahmmedbabu&theme=dark&hide_border=true) ![space4's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofayelahmmedbabu&show_icons=true&theme=dark&hide_border=true)
 
 </div>
 
 <div align="center">
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofayelahmmedbabu&layout=compact&theme=ambient_gradient&hide_border=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofayelahmmedbabu&layout=compact&theme=dark&hide_border=true)
 </div>
 
 
