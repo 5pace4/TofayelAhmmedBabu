@@ -79,17 +79,17 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="20"/>
+<!--   <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="20"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" height="20"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="20"/> -->
 </div>
 
 ##
 
 <div align="center">
   
-[![space4's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofayelahmmedbabu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tofayelahmmedbabu&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tofayelahmmedbabu&theme=dark)](https://git.io/streak-stats) [![space4's GitHub stats](https://github-readme-stats.vercel.app/api?username=tofayelahmmedbabu&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 <div align="center">
   
@@ -97,6 +97,7 @@
 </div>
 
 
+## 
 
 <div align="center">
   connect with me
