@@ -1,7 +1,7 @@
 <!-- Add a banner or header here -->
 ![Your Banner Image](https://media.licdn.com/dms/image/D5616AQHH5pdYaC7FJg/profile-displaybackgroundimage-shrink_350_1400/0/1704006454597?e=1710979200&v=beta&t=X0_Z8rG7h4caUEfXjxHzcI8_CYPI5Yzhf-Ce4UkAKVo)
 
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **TofayelAhmmedBabu/TofayelAhmmedBabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Here are some details about me:
